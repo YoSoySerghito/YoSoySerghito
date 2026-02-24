@@ -27,10 +27,10 @@ I'm a **passionate Web Full Stack Developer** and **FiveM Developer** with exper
 <div align="center">
 
 ### 🎨 Frontend Technologies
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,bootstrap,sass&theme=dark" alt="Frontend Skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend Skills"/>
 
 ### ⚙️ Backend Technologies  
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,mysql,mongodb,postgresql,firebase&theme=dark" alt="Backend Skills"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,mysql,mongodb,postgresql&theme=dark" alt="Backend Skills"/>
 
 ### 🎮 FiveM & Gaming Development
 <img src="https://skillicons.dev/icons?i=lua&theme=dark" alt="Lua"/>
